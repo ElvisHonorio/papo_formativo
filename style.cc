@@ -14,5 +14,5 @@ header{
     padding-top: 80px
 }
 .chamada-texto{
-    margin-right:20px;
+    margin-right:5%;
 }
