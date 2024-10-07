@@ -1,5 +1,5 @@
 body{
-    color: rgb(255,255,255);
+    color: rgb(0,255,255);
     background-color: black;
 }
 section{
@@ -13,6 +13,6 @@ header{
     padding-bottom: 80px;
     padding-top: 80px
 }
-div{
+.chamada-texto{
     margin-right:20px;
 }
