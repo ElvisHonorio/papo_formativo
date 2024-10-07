@@ -5,7 +5,7 @@ body{
 section{
     background:rgb(197, 56, 207);
     padding-bottom: 40px;
-    padding-top: 80px;
+    padding-top: 40px;
     display: flex;
     justify-content:center
 }
