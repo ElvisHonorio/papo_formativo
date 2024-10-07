@@ -4,6 +4,10 @@ body{
 }
 section{
     background:rgb(189,36,200);
-    peding-bottom: 80px;
-    peding-top: 80px
+    padding-bottom: 80px;
+    padding-top: 80px
+}
+header{
+    padding-bottom: 80px;
+    padding-top: 80px
 }
