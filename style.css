@@ -10,9 +10,13 @@ section{
     justify-content:center
 }
 head{
-    padding-bottom: 80px;
-    padding-top: 80px
+    padding-bottom: 400px;
+    padding-top: 40px
 }
 .chamada-texto{
     margin-right:5%;
+}
+.O_bebado_e_a_equilibrista{
+    border-width: 20px;
+    border-left: 30px;
 }
