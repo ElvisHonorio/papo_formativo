@@ -7,9 +7,9 @@ section{
     padding-bottom: 400px;
     padding-top: 400px
     display: flex;
-    justify-content: center
+    justify-content:center
 }
-header{
+head{
     padding-bottom: 80px;
     padding-top: 80px
 }
