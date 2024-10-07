@@ -4,7 +4,7 @@ body{
 }
 section{
     background:rgb(197, 56, 207);
-    padding-bottom: 80px;
+    padding-bottom: 40px;
     padding-top: 80px;
     display: flex;
     justify-content:center
