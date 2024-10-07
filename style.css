@@ -3,9 +3,9 @@ body{
     background-color: black;
 }
 section{
-    background:rgb(189,36,200);
-    padding-bottom: 80px;
-    padding-top: 80px
+    background:rgb(197, 56, 207);
+    padding-bottom: 400px;
+    padding-top: 400px
     display: flex;
     justify-content: center
 }
