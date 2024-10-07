@@ -13,3 +13,6 @@ header{
     padding-bottom: 80px;
     padding-top: 80px
 }
+div{
+    margin-right:20px;
+}
