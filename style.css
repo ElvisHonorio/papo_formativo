@@ -26,8 +26,8 @@ img{
 }
 
 .categoria_musica{
-    padding-top: 10px;
-    padding: 10px;
+    padding-top: 40px;
+    padding: 40px;
     background: rgb(0,255,255);
     display: flex;
     overflow-x: auto;
