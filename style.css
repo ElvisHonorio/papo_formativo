@@ -26,10 +26,14 @@ img{
 }
 
 .categoria_musica{
-    padding-top: 40px;
-    padding: 40px;
-    background: rgb(0,255,255);
+    
     display: flex;
     overflow-x: auto;
     gap: 10px;
+}
+
+.categorias{
+    padding-top: 40px;
+    padding: 40px;
+    background: rgb(0,255,255);
 }
