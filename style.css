@@ -2,12 +2,20 @@ body{
     color: rgba(0, 255, 255, 0);
     background-color: black;
 }
-section{
+
+.chamada{
     background:rgb(64, 7, 68);
     padding-bottom: 40px;
     padding-top: 40px;
+    padding-left: 20px;
+    padding-right: 20px;
     display: flex;
     justify-content:center
+}
+.categorias{
+    padding-top: 40px;
+    padding: 40px;
+    background: rgb(0,255,255);    
 }
 head{
     padding-bottom: 40px;
@@ -32,8 +40,3 @@ img{
     gap: 10px;
 }
 
-.categorias{
-    padding-top: 40px;
-    padding: 40px;
-    background: rgb(0,255,255);
-}
