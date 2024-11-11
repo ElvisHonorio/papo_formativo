@@ -15,7 +15,8 @@ body{
 .categorias{
     padding-top: 40px;
     padding: 40px;
-    background: rgb(0,255,255);    
+    background: rgb(0,255,255);
+    display: flex;    
 }
 head{
     padding-bottom: 40px;
@@ -34,7 +35,6 @@ img{
 }
 
 .categoria_musica{
-    
     display: flex;
     overflow-x: auto;
     gap: 10px;
